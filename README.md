@@ -158,3 +158,10 @@ _"In the shadows of the cyber world, I am the unseen protector of the most criti
 
 ## 🌐 **Global Collaboration**
 - **Collaborating with International Organizations**: Actively engage with various cybersecurity forums, conferences, and research papers to stay at the forefront of cyber defense and critical infrastructure protection.
+
+
+
+
+
+
+<canvas class="w-full h-full aspect-square cursor-grab" style="opacity: 1; transform: none; cursor: grab;" width="940" height="940"></canvas>
